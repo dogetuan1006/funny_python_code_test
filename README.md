@@ -1,2 +1,2 @@
-# funny_python_code_test
-A collection of funny and interesting Python scripts for learning purposes.
+# Vietnamese Test
+The Test For Your Vietnamese
